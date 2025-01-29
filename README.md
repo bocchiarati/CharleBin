@@ -7,6 +7,10 @@ CharleBin est un 'pastebin' (ou gestionnaire d'extraits de texte et de code sour
 ## Prérequis
 
 PHP 8.*
+```
+sudo apt install php-8.*
+```
+
 make
 ```
 sudo apt install make
