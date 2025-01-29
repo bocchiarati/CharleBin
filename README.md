@@ -32,7 +32,7 @@ git clone https://github.com/bocchiarati/CharleBin.git
 
 Contentez vous d'effectuez vos changement en reliant le projet local à un repo en remote si vous voulez faire des chagements pour vous même ou bien, en proposer des pull request afin de proposer vos améliorations
 
-## Déployement 
+## Déploiement 
 
 Rendez vous dans le dossier du projet et effectuer la commande 
 ```
