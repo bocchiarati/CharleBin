@@ -7,13 +7,13 @@ CharleBin est un 'pastebin' (ou gestionnaire d'extraits de texte et de code sour
 ## Prérequis
 
 PHP 8.*
-make `sudo apt install make`
+make ```sudo apt install make```
 
 ## Installation en local 
 
 clonage du projet :
-SSH `git clone git@github.com:bocchiarati/CharleBin.git`
-URL `git clone https://github.com/bocchiarati/CharleBin.git`
+SSH ```git clone git@github.com:bocchiarati/CharleBin.git```
+URL ```git clone https://github.com/bocchiarati/CharleBin.git```
 
 ## Comment dev dessus ? 
 
@@ -21,4 +21,4 @@ Contentez vous d'effectuez vos changement en reliant le projet local à un repo 
 
 ## Déployement 
 
-Rendez vous dans le dossier du projet et effectuer la commande `make start` puis copier l'url devant ressembler à ceci : `localhost:8080` dans votre navigateur
+Rendez vous dans le dossier du projet et effectuer la commande ```make start``` puis copier l'url devant ressembler à ceci : `localhost:8080` dans votre navigateur
